@@ -64,7 +64,7 @@ Neon EVM :
 
 Metmask Linea : 
                 Contract Address : https://thirdweb.com/0x491bdc32F0a3067102b143F17D29fd4Bf2436C4c/PolkoWars/1.0.6
-                
+
                 Smart Contracts  : 0x7d72838B1f3907f1CB1B41c25493B41829BC0EaC
 IPFS : 
                 IPFS URL : https://ipfs.io/ipfs/bafybeiebfwieismlapcvah3gblqroa7xmygfdia6mdiz653qagsw45ergu
@@ -72,3 +72,7 @@ IPFS :
 
 
 
+YOutube Video link for the project 
+
+
+Link : https://youtu.be/9s-vSoGDgBg
