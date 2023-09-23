@@ -40,24 +40,31 @@ Deployed EVM Compatible Chains
 
 Gnosis Chain : 
                 Contract Address : https://thirdweb.com/0x491bdc32F0a3067102b143F17D29fd4Bf2436C4c/PolkoWars/1.0.0
+                
                 Smart Contracts  : https://gnosis-chiado.blockscout.com/address/0x8b702E14DC7926d2f2919cad07994B9939BDF2d8
 
 Arbitrum Goerli : 
                 Contract Address : https://thirdweb.com/0x491bdc32F0a3067102b143F17D29fd4Bf2436C4c/PolkoWars/1.0.1
+                
                 Smart Contracts  : 0x7505Cb385bae8B515a89792d44dFbFaE0A03A8e0
 
 Scroll ZKevm : 
                 Contract Address : https://thirdweb.com/0x491bdc32F0a3067102b143F17D29fd4Bf2436C4c/PolkoWars/1.0.4
+                
                 Smart Contracts  : 0x8b702E14DC7926d2f2919cad07994B9939BDF2d8
+
 Mantle Network : 
                 Contract Address : https://thirdweb.com/0x491bdc32F0a3067102b143F17D29fd4Bf2436C4c/PolkoWars/1.0.3
+
                 Smart Contracts  : 0x8b702E14DC7926d2f2919cad07994B9939BDF2d8
+
 Neon EVM : 
                 Contract Address : https://thirdweb.com/0x491bdc32F0a3067102b143F17D29fd4Bf2436C4c/PolkoWars
                 Smart Contracts  : 0x8b702E14DC7926d2f2919cad07994B9939BDF2d8
 
 Metmask Linea : 
                 Contract Address : https://thirdweb.com/0x491bdc32F0a3067102b143F17D29fd4Bf2436C4c/PolkoWars/1.0.6
+                
                 Smart Contracts  : 0x7d72838B1f3907f1CB1B41c25493B41829BC0EaC
 IPFS : 
                 IPFS URL : https://ipfs.io/ipfs/bafybeiebfwieismlapcvah3gblqroa7xmygfdia6mdiz653qagsw45ergu
