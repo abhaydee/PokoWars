@@ -17,11 +17,11 @@ Step 5 : Install Metamask Wallet extension on your browser and configure emv com
 
 Step 6 : compile the contract using npx hardhat compile 
 
-Step 7 : We have used thirdweb sdk's to deploy the smart contracts on the moonbase alpha chain. 
+Step 7 : We have used thirdweb sdk's to deploy the smart contracts on the several evm compatible chains mentioned below. 
 
 For the frontend 
 
-Step 1 : cd into the "client" folder
+Step 1 : cd into the "client" folders
 
 Step 2 : Run "npm install" from your terminal 
 
@@ -33,8 +33,34 @@ FrontEnd : React, Tailwind, MetaMask SDK, MetaMask Wallet
 
 Backend : Solidity, Thirdweb, Gnosis Chain,  Arbitrum Goerli, Scoll Zkevm, Mantle Network, NeonEVM, IPFS (Decentralized Storage),  Metamask Linea,  
 
+SDK's Used : Metamask SDK for wallet connection
 Storage : IPFS
 
+Deployed EVM Compatible Chains 
+
+Gnosis Chain : 
+                Contract Address : https://thirdweb.com/0x491bdc32F0a3067102b143F17D29fd4Bf2436C4c/PolkoWars/1.0.0
+                Smart Contracts  : https://gnosis-chiado.blockscout.com/address/0x8b702E14DC7926d2f2919cad07994B9939BDF2d8
+
+Arbitrum Goerli : 
+                Contract Address : https://thirdweb.com/0x491bdc32F0a3067102b143F17D29fd4Bf2436C4c/PolkoWars/1.0.1
+                Smart Contracts  : 0x7505Cb385bae8B515a89792d44dFbFaE0A03A8e0
+
+Scroll ZKevm : 
+                Contract Address : https://thirdweb.com/0x491bdc32F0a3067102b143F17D29fd4Bf2436C4c/PolkoWars/1.0.4
+                Smart Contracts  : 0x8b702E14DC7926d2f2919cad07994B9939BDF2d8
+Mantle Network : 
+                Contract Address : https://thirdweb.com/0x491bdc32F0a3067102b143F17D29fd4Bf2436C4c/PolkoWars/1.0.3
+                Smart Contracts  : 0x8b702E14DC7926d2f2919cad07994B9939BDF2d8
+Neon EVM : 
+                Contract Address : https://thirdweb.com/0x491bdc32F0a3067102b143F17D29fd4Bf2436C4c/PolkoWars
+                Smart Contracts  : 0x8b702E14DC7926d2f2919cad07994B9939BDF2d8
+
+Metmask Linea : 
+                Contract Address : https://thirdweb.com/0x491bdc32F0a3067102b143F17D29fd4Bf2436C4c/PolkoWars/1.0.6
+                Smart Contracts  : 0x7d72838B1f3907f1CB1B41c25493B41829BC0EaC
+IPFS : 
+                IPFS URL : https://ipfs.io/ipfs/bafybeiebfwieismlapcvah3gblqroa7xmygfdia6mdiz653qagsw45ergu
 
 
 
